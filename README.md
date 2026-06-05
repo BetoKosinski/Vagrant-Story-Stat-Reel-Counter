@@ -1,4 +1,4 @@
-# Vagrant-Story-Stat-Reel-Counter
+# Vagrant Story Stat Reel Counter
 A Simple counter made with Python Tkinter to keep track of the stats gained in Vagrant Story.
 
 - This counter follows the rules of stat reel order that appears after a boss fight on the PS1 game Vagrant Story.
